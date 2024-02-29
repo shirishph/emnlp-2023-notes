@@ -5,12 +5,12 @@ EMNLP main site: https://2023.emnlp.org/
 Papers on ACLAnthology: https://aclanthology.org/events/emnlp-2023/  
 
 ## Contents
-[Zettels](#zettels)
-[Workshops Day 6-DEC-2023 WE](#workshops-day-6-dec-2023-we)
-[Tutorials Day 7-DEC-2023 TH](#tutorials-day-7-dec-2023-th)
-[Day 1 Main Conf 8-DEC-2023 FR](#day-1-main-conf-8-dec-2023-fr)
-[Day 2 Main Conf 9-DEC-2023 SA](#day-2-main-conf-9-dec-2023-sa)
-[Day 3 Main Conf 10-DEC-2023 SU](#day-3-main-conf-10-dec-2023-su)
+[Zettels](#zettels)  
+[Workshops Day 6-DEC-2023 WE](#workshops-day-6-dec-2023-we)  
+[Tutorials Day 7-DEC-2023 TH](#tutorials-day-7-dec-2023-th)  
+[Day 1 Main Conf 8-DEC-2023 FR](#day-1-main-conf-8-dec-2023-fr)  
+[Day 2 Main Conf 9-DEC-2023 SA](#day-2-main-conf-9-dec-2023-sa)  
+[Day 3 Main Conf 10-DEC-2023 SU](#day-3-main-conf-10-dec-2023-su)  
 [Poster Stalls](#poster-stalls)
 
 ## Zettels
