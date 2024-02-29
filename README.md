@@ -1,8 +1,8 @@
 # **EMNLP 6-10 Dec 2023**
 Shirish Hirekodi
 
-EMNLP main site: https://2023.emnlp.org/
-Papers on ACLAnthology: https://aclanthology.org/events/emnlp-2023/
+EMNLP main site: https://2023.emnlp.org/  
+Papers on ACLAnthology: https://aclanthology.org/events/emnlp-2023/  
 
 ## Contents
 [Zettels](#zettels)
